@@ -13,6 +13,7 @@ This repository contains my completed projects from the freeCodeCamp curriculum.
 This section includes projects that focus on creating visually appealing and responsive web pages using HTML and CSS.
 
     Cat Photo App: A beginner-friendly project to practice HTML basics.
+    Cafe Menu: A beginner-friendly project to practice CSS basics.
     Tribute Page: A simple webpage honoring a historical figure or an idol.
     Survey Form: A form to collect user input with validation.
     Product Landing Page: A marketing page showcasing a product.
