@@ -14,6 +14,9 @@ This section includes projects that focus on creating visually appealing and res
 
     Cat Photo App: A beginner-friendly project to practice HTML basics.
     Cafe Menu: A beginner-friendly project to practice CSS basics.
+    A Set of Colored Markers: A beginner-friendly project to practice CSS colors.
+    A registration Form: A beginner-friendly project to practice HTML forms.
+    Certification Project (Survey Form): This project demonstrates the skills acquired in HTML and CSS.
     Tribute Page: A simple webpage honoring a historical figure or an idol.
     Survey Form: A form to collect user input with validation.
     Product Landing Page: A marketing page showcasing a product.
