@@ -17,6 +17,7 @@ This section includes projects that focus on creating visually appealing and res
     A Set of Colored Markers: A beginner-friendly project to practice CSS colors.
     A registration Form: A beginner-friendly project to practice HTML forms.
     Certification Project 01 (Survey Form): I was required to build a survey form to collect data from my users. This project demonstrates the skills acquired in HTML and CSS.
+    Rothko Painting: Learn the CSS Box by Building a Rothko Painting.
     Tribute Page: A simple webpage honoring a historical figure or an idol.
     Product Landing Page: A marketing page showcasing a product.
     Technical Documentation Page: A page presenting technical information in a structured format.
