@@ -16,7 +16,7 @@ This section includes projects that focus on creating visually appealing and res
     Cafe Menu: A beginner-friendly project to practice CSS basics.
     A Set of Colored Markers: A beginner-friendly project to practice CSS colors.
     A registration Form: A beginner-friendly project to practice HTML forms.
-    Certification Project (Survey Form): This project demonstrates the skills acquired in HTML and CSS.
+    Certification Project 01 (Survey Form): I was required to build a survey form to collect data from my users. This project demonstrates the skills acquired in HTML and CSS.
     Tribute Page: A simple webpage honoring a historical figure or an idol.
     Survey Form: A form to collect user input with validation.
     Product Landing Page: A marketing page showcasing a product.
