@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sunny Smiles Childcare Survey Form</title>
+    <link rel="stylesheet" href="certificationproject-surveyform.css" />
+    </head>
+    <body>
+    <h1 id="title">Sunny Smiles Childcare Survey Form</h1>
+    <p id="description">Share your thoughts and help us improve by filling out this short survey.</p>
+    <form id="survey-form">
+    <fieldset><label id="name-label" for="name">Enter your name:<input name="name" id="name" type "text" placeholder="John Doe" required/></label>
+    <label id="email-label" for="email">Enter your email:<input name="email" id="email" type="email" placeholder="example@email.com" required/></label>
+ <label id="number-label" for="number">Enter your age:<input name="number" id="number" type="number" min="18" max="100" placeholder="25" required/></label>
+  <label for="dropdown">What age group is your child in?</label><select id="dropdown" name="dropdown" required><option value="0-5years">0-5 years</option><option value="6+years">6+ years</option></select></fieldset>
+  <fieldset>
+    <legend>How satisfied are you with the services provided by Sunny Smiles Childcare?</legend>
+    <label for="verysatisfied"><input type="radio" id="radio1" name="choice" value="verysatisfied" required> Very Satisfied </label>
+    <label for="notsatisfied"><input type="radio" id="notsatisfied" name="choice" value="option2" required> Not Satisfied </label>
+  </fieldset>
+  <fieldset>
+    <legend>Which of the following services do you use for your child?</legend>
+
+<label for="checkbox1"><input type="checkbox" id="checkbox1" name="services" value="fulldaycare"> Full Day Care</label>
+<label for="checkbox2"><input type="checkbox" id="checkbox2" name="services" value="afterschoolcare"> After School Care</label>
+<label for="checkbox3"><input type="checkbox" id="checkbox3" name="services" value="weekendbabysitting"> Weekend Babysitting</label>
+<label for="checkbox4"><input type="checkbox" id="checkbox4" name="services" value="mealplan"> Meal Plan</label>
+  </fieldset>
+  <label for="comments">Additional Comments:</label>
+  <textarea id="comments" name="comments" rows="4" placeholder="Enter your comments here..."></textarea>
+   <button type="submit" id="submit">Submit</button>
+    </form>
+</body>
+</html>
