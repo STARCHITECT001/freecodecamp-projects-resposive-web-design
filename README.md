@@ -8,20 +8,20 @@ This repository contains my completed projects from the freeCodeCamp curriculum.
         Data Visualization
         Back End Development and APIs
 
-1.RESPONSIVE WEB DESIGN.
+A.RESPONSIVE WEB DESIGN.
 
 This section includes projects that focus on creating visually appealing and responsive web pages using HTML and CSS.
 
-    Cat Photo App: A beginner-friendly project to practice HTML basics.
-    Cafe Menu: A beginner-friendly project to practice CSS basics.
-    A Set of Colored Markers: A beginner-friendly project to practice CSS colors.
-    A registration Form: A beginner-friendly project to practice HTML forms.
-    Certification Project 01 (Survey Form): I was required to build a survey form to collect data from my users demonstrating the skills acquired in HTML and CSS.
-    Rothko Painting: Learn the CSS Box by Building a Rothko Painting.
-    Photo Gallery: Learn CSS Flexbox by building a Photo Gallery.
-    Nutrition Label: Learn Typography by building a Nutrition Label.
-    A Quiz: Learn Accessibility by building a Quiz.
-    Tribute Page: A simple webpage honoring a historical figure or an idol.
+    1. Cat Photo App: A beginner-friendly project to practice HTML basics.
+    2. Cafe Menu: A beginner-friendly project to practice CSS basics.
+    3. A Set of Colored Markers: A beginner-friendly project to practice CSS colors.
+    4. A registration Form: A beginner-friendly project to practice HTML forms.
+    5. Certification Project 01 (Survey Form): I was required to build a survey form demonstrating the skills acquired in HTML and CSS.
+    6. Rothko Painting: Learn the CSS Box by Building a Rothko Painting.
+    7. Photo Gallery: Learn CSS Flexbox by building a Photo Gallery.
+    8. Nutrition Label: Learn Typography by building a Nutrition Label.
+    9. A Quiz: Learn Accessibility by building a Quiz.
+    10.Tribute Page: A simple webpage honoring a historical figure or an idol.
     Product Landing Page: A marketing page showcasing a product.
     Technical Documentation Page: A page presenting technical information in a structured format.
     Personal Portfolio Webpage: A portfolio page to showcase my projects and skills.
