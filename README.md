@@ -2,11 +2,11 @@ This repository contains my completed projects from the freeCodeCamp curriculum.
 
    THE CURRICULM INCLUDES:
         
-        Responsive Web Design
-        JavaScript Algorithms and Data Structures
-        Front End Development Libraries
-        Data Visualization
-        Back End Development and APIs
+        A. Responsive Web Design
+        B. JavaScript Algorithms and Data Structures
+        C. Front End Development Libraries
+        D. Data Visualization
+        E. Back End Development and APIs
 
 A.RESPONSIVE WEB DESIGN.
 
