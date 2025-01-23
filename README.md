@@ -16,7 +16,7 @@ This section includes projects that focus on creating visually appealing and res
     Cafe Menu: A beginner-friendly project to practice CSS basics.
     A Set of Colored Markers: A beginner-friendly project to practice CSS colors.
     A registration Form: A beginner-friendly project to practice HTML forms.
-    Certification Project 01 (Survey Form): I was required to build a survey form to collect data from my users demonstrateing the skills acquired in HTML and CSS.
+    Certification Project 01 (Survey Form): I was required to build a survey form to collect data from my users demonstrating the skills acquired in HTML and CSS.
     Rothko Painting: Learn the CSS Box by Building a Rothko Painting.
     Photo Gallery: Learn CSS Flexbox by building a Photo Gallery.
     Nutrition Label: Learn Typography by building a Nutrition Label.
