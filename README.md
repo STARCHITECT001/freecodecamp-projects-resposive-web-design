@@ -1,16 +1,5 @@
-This repository contains my completed projects from the freeCodeCamp curriculum. Each project demonstrates my understanding of specific web development concepts and technologies as I progress through the certification programs.
-
-   THE CURRICULM INCLUDES:
-        
-        A. Responsive Web Design
-        B. JavaScript Algorithms and Data Structures
-        C. Front End Development Libraries
-        D. Data Visualization
-        E. Back End Development and APIs
-
-A.RESPONSIVE WEB DESIGN.
-
-This section includes projects that focus on creating visually appealing and responsive web pages using HTML and CSS.
+This repository contains my portfolio of responsive web design projects developed while completing the FreeCodeCamp curriculum.
+These projects focus on creating visually appealing and responsive web pages using HTML and CSS.
 
     1. Cat Photo App: A beginner-friendly project to practice HTML basics.
     2. Cafe Menu: A beginner-friendly project to practice CSS basics.
@@ -33,15 +22,3 @@ This section includes projects that focus on creating visually appealing and res
     
 
 
-JavaScript Algorithms and Data Structures
-
-Projects highlighting my proficiency in JavaScript, including solving algorithms and creating basic applications.
-Front End Development Libraries
-
-Projects demonstrating the use of libraries like React, Bootstrap, and jQuery.
-Data Visualization
-
-Charts and graphs created using libraries like D3.js to visualize complex data.
-Back End Development and APIs
-
-Projects focusing on building server-side applications and working with APIs.
