@@ -18,6 +18,9 @@ These projects focus on creating visually appealing and responsive web pages usi
     15. A city skyline: Learn CSS Variables by building a city skyline.
     16. A magazine: Learn CSS grid by building a magazine.
     17. CERTIFICATION PROJECT 04 (Project Landing Page): I was required to build a product landing page to market a product of my choice.
+    18. A Ferris Wheel: Learn CSS Animation by building a Ferris Wheel.
+    19. A Penguin: Learn CSS Transforms by building a penguin.
+    20. CERTIFICATION PROJECT 05 (Personal Portfolio Webpage): I was required to build my own personal portfolio page.
     
     
 
