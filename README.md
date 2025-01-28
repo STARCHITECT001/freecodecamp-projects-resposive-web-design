@@ -21,7 +21,7 @@ This section includes projects that focus on creating visually appealing and res
     7. Photo Gallery: Learn CSS Flexbox by building a Photo Gallery.
     8. Nutrition Label: Learn Typography by building a Nutrition Label.
     9. A Quiz: Learn Accessibility by building a Quiz.
-    10.Tribute Page: A simple webpage honoring a historical figure or an idol.
+    10.Certification Project 02 (Tribute Page): A simple webpage honoring a historical figure or an idol.
     Product Landing Page: A marketing page showcasing a product.
     Technical Documentation Page: A page presenting technical information in a structured format.
     Personal Portfolio Webpage: A portfolio page to showcase my projects and skills.
