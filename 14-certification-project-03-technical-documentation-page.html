@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technical Documentation</title>
+  <link rel="stylesheet" href="14-certification-project-03-technical-documentation-page.css">
+</head>
+<body>
+  <nav id="navbar">
+    <header>Technical Documentation</header>
+    <a href="#HTML_and_CSS" class="nav-link">HTML and CSS</a>
+    <a href="#JavaScript_and_Java" class="nav-link">JavaScript and Java</a>
+    <a href="#Python_Programming" class="nav-link">Python Programming</a>
+    <a href="#Database_Management" class="nav-link">Database Management</a>
+    <a href="#Web_Development_Tools" class="nav-link">Web Development Tools</a>
+  </nav>
+  <main id="main-doc">
+    <section class="main-section" id="HTML_and_CSS">
+      <header>HTML and CSS</header>
+      <p>HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are foundational technologies for creating webpages.</p>
+      <p>HTML defines the structure, while CSS handles the visual presentation.</p>
+      <code>&lt;div&gt;This is a div&lt;/div&gt;</code>
+      <code>p { color: red; }</code>
+      <p>Here’s how you can style a paragraph:</p>
+      <code>p { font-size: 16px; }</code>
+      <p>CSS can also be used for responsive design:</p>
+      <code>@media screen and (max-width: 600px) { /* styles for small screens */ }</code>
+      <ul>
+        <li>HTML defines structure.</li>
+        <li>CSS defines styling.</li>
+        <li>HTML uses elements such as &lt;div&gt;, &lt;p&gt;, &lt;header&gt;.</li>
+        <li>CSS applies to HTML elements using selectors.</li>
+        <li>Responsive design ensures readability on all screen sizes.</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="JavaScript_and_Java">
+      <header>JavaScript and Java</header>
+      <p>JavaScript is a programming language used to create interactive effects within web browsers.</p>
+      <p>Java is a general-purpose programming language used for building applications across various platforms.</p>
+      <code>const x = 10;</code>
+      <code>function greet() { alert("Hello World!"); }</code>
+      <p>JavaScript is often used for front-end development, while Java is used for back-end services.</p>
+      <code>public class HelloWorld { public static void main(String[] args) { System.out.println("Hello World"); } }</code>
+      <ul>
+        <li>JavaScript is for client-side scripting.</li>
+        <li>Java is used for server-side applications.</li>
+        <li>JavaScript can manipulate HTML and CSS.</li>
+        <li>Java is compiled, while JavaScript is interpreted.</li>
+        <li>Both are object-oriented languages.</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Python_Programming">
+      <header>Python Programming</header>
+      <p>Python is a versatile programming language used for a wide variety of applications, from web development to machine learning.</p>
+      <p>It is known for its readability and simple syntax.</p>
+      <code>print("Hello, World!")</code>
+      <code>def add(a, b): return a + b</code>
+      <p>Python has a large community and a variety of libraries for almost every task.</p>
+      <code>import numpy as np</code>
+      <ul>
+        <li>Python is easy to learn for beginners.</li>
+        <li>It supports multiple programming paradigms.</li>
+        <li>Python has extensive libraries for data science.</li>
+        <li>It’s an interpreted language.</li>
+        <li>Python is often used for automation tasks.</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Database_Management">
+      <header>Database Management</header>
+      <p>Database management systems (DBMS) are used to store and retrieve data efficiently.</p>
+      <p>Popular DBMS include MySQL, PostgreSQL, and MongoDB.</p>
+      <code>SELECT * FROM users;</code>
+      <code>CREATE TABLE students (id INT, name VARCHAR(100));</code>
+      <p>Databases can be relational (SQL) or non-relational (NoSQL).</p>
+      <code>db.collection.find()</code>
+      <ul>
+        <li>SQL databases use structured query language.</li>
+        <li>NoSQL databases offer more flexible data models.</li>
+        <li>Indexes improve query performance.</li>
+        <li>Normalization is used to avoid redundancy in relational databases.</li>
+        <li>ACID properties ensure data integrity in transactions.</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Web_Development_Tools">
+      <header>Web Development Tools</header>
+      <p>Web developers use various tools to streamline their workflow.</p>
+      <p>Some common tools include code editors, version control systems, and build tools.</p>
+      <code>git commit -m "Initial commit"</code>
+      <code>npm install react</code>
+      <p>These tools help in managing code, dependencies, and tasks.</p>
+      <code>webpack --config webpack.config.js</code>
+      <ul>
+        <li>Git is a version control system.</li>
+        <li>NPM is used to manage JavaScript libraries.</li>
+        <li>Webpack is a module bundler.</li>
+        <li>VS Code is a popular code editor.</li>
+        <li>Docker is used for containerization in development.</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
