@@ -1,0 +1,83 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header */
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #00471b;
+    padding: 10px 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#header-img {
+    height: 50px;
+}
+
+/* Navbar */
+#nav-bar {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+/* Hero Section */
+#hero {
+    background: #f4f4f4;
+    padding: 50px;
+    margin-top: 60px;
+}
+
+/* Projects Section */
+#projects ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Video */
+#video {
+    width: 80%;
+    max-width: 560px;
+}
+
+/* Form */
+#contact form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#email {
+    padding: 10px;
+    margin: 10px;
+}
+
+#submit {
+    background: #00471b;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Responsive Design */
+@media (max-width: 720px) {
+    #nav-bar {
+        flex-direction: column;
+    }
+    #video {
+        width: 100%;
+    }
+}
